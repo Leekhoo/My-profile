@@ -14,9 +14,11 @@
 - 시계열 데이터 분석: 시계열 데이터의 특성을 고려하여 ARIMA, Prophet, LSTM과 같은 모델을 적용하여 시계열 패턴 분석과 미래 예측을 수행합니다.
 
 ### 교육
-https://github.com/Leekhoo/Machine-Learning-and-Deep-Learning-Certifications
 - 구름 주관 '2023 군 장병 맞춤형 온라인 AI·SW 교육 : 인공지능 고급과정 수료'
 - Coursera: Supervised Machine Learning: Regression and Classification 강의 수강 중
+
+## 교육 수료증 및 교육 내용
+https://github.com/Leekhoo/Machine-Learning-and-Deep-Learning-Certifications
 
 ### 프로젝트 경험
 - [화재 이미지 인식 프로그램]: [네이버에서 화재 이미지와 비화재 이미지를 수집한 뒤, 화재 이미지를 예측하는 프로젝트]
