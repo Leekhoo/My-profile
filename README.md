@@ -33,7 +33,7 @@
 
 ### 프로젝트 경험
 - [화재 이미지 인식 프로그램]: [네이버에서 화재 이미지와 비화재 이미지를 수집한 뒤, 화재 이미지를 예측하는 프로젝트]
-- https://github.com/Leekhoo/Fire-Image-Classification-Project
+https://github.com/Leekhoo/Fire-Image-Classification-Project
   
 - [스팸 메일 분류]: [캐글에서 제공하는 스팸 메일 데이터를 학습시켜 스팸 메일 분류기를 구현]
 - https://github.com/Leekhoo/Spam-Mail-Classification-Project'
