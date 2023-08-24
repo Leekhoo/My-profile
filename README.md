@@ -36,17 +36,16 @@
 https://github.com/Leekhoo/Fire-Image-Classification-Project
   
 - [스팸 메일 분류]: [캐글에서 제공하는 스팸 메일 데이터를 학습시켜 스팸 메일 분류기를 구현]
-- https://github.com/Leekhoo/Spam-Mail-Classification-Project'
+https://github.com/Leekhoo/Spam-Mail-Classification-Project'
   
-- [로이터 뉴스 분류]: [케라스에서 제공하는 로이터 뉴스 데이터를 LSTM을 이용하여 텍스트 분류.
-  로이터 뉴스 기사 데이터는 총 11,258개의 뉴스 기사가 46개의 뉴스 카테고리로 분류되는 뉴스 기사 데이터입니다.]
-- https://github.com/Leekhoo/Reuters-News
+- [로이터 뉴스 분류]: [케라스에서 제공하는 로이터 뉴스 데이터를 LSTM을 이용하여 텍스트 분류]
+https://github.com/Leekhoo/Reuters-News
   
 - [주식 자동 알림 시스템]: [현대 자동차 주식 가격을 평일 오전 09:00 / 오후 15:00 마다 메일로 보내주고, 주식 가격이 200,000원 이상이 되면 메일을 발송해주는 프로그램]
-- https://github.com/Leekhoo/Hyundai-Motor-Stock-Notification-Project
+https://github.com/Leekhoo/Hyundai-Motor-Stock-Notification-Project
   
 - [범죄 발생 지역 시각화]: [뉴스 내용에서 범죄 종류와 지역을 추출해서 지도에 시각화 하는 프로젝트입니다.]
-- https://github.com/Leekhoo/Crime-Visualization-Map-Project
+https://github.com/Leekhoo/Crime-Visualization-Map-Project
   
 - [자연어 처리 모델의 음성인식 및 문서 요약 기술로 행정 부하 경감] : [진행 중]
 
