@@ -17,11 +17,11 @@
 ##### 1. 인공지능 초급과정 1 / 2 : 파이썬 프로그래밍 기초, 파이썬 정형 데이터 분석 & 데이터 시각화, 파이썬을 활용한 웹 크롤링 & 자연어 데이터 분석
 - [수료증] : [인공지능 초급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424831/1.pdf)
 - [수료증] : [인공지능 초급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424833/2.pdf)
-- 
+  
 ##### 2. 인공지능 중급과정 1 / 2 : 파이썬을 활용한 기초 통계 분석, 파이썬 기반 SQL 프로그래밍, 머신러닝 핵심 이론 & Scikit-learn 실습
 - [수료증] : [인공지능 중급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424834/1.pdf)
 - [수료증] : [인공지능 중급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424836/2.pdf)
-- 
+  
 ##### 3. 인공지능 고급과정 1 : 딥러닝 핵심 개념 & 딥러닝 최적화 이론, Tensorflow를 활용한 파이썬 딥러닝 실습
 - [수료증] : [인공지능 고급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424837/1.pdf)
 
