@@ -15,7 +15,7 @@
 
 ### 교육
 - 구름 주관 '2023 군 장병 맞춤형 온라인 AI·SW 교육 : 인공지능 고급과정 수료'
-- Coursera: Supervised Machine Learning: Regression and Classification 강의 수강 중
+- Coursera: Supervised Machine Learning: Regression and Classification 강의 수료
 
 ### 교육 수료증 및 교육 내용
 https://github.com/Leekhoo/Machine-Learning-and-Deep-Learning-Certifications
