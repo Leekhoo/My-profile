@@ -3,7 +3,7 @@
 ### 언어 및 프레임워크
 - Python
 - TensorFlow
-- PyTorch
+- Jupyter Notebook
 - Scikit-learn
 
 ### 머신러닝과 딥러닝
@@ -15,13 +15,13 @@
 
 ### 2023년 군 장병 맞춤형 온라인 AI·SW 교육
 - 인공지능 초급과정 1 / 2 : 파이썬 프로그래밍 기초, 파이썬 정형 데이터 분석 & 데이터 시각화, 파이썬을 활용한 웹 크롤링 & 자연어 데이터 분석
-- [인공지능 초급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424791/1.pdf)
-- [인공지능 초급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424792/2.pdf)
+- [인공지능 초급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424831/1.pdf)
+- [인공지능 초급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424833/2.pdf)
 - 인공지능 중급과정 1 / 2 : 파이썬을 활용한 기초 통계 분석, 파이썬 기반 SQL 프로그래밍, 머신러닝 핵심 이론 & Scikit-learn 실습
-- [인공지능 중급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424793/1.pdf)
-- [인공지능 중급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424795/2.pdf)
+- [인공지능 중급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424834/1.pdf)
+- [인공지능 중급과정 2.pdf](https://github.com/Leekhoo/My-profile/files/12424836/2.pdf)
 - 인공지능 고급과정 1 : 딥러닝 핵심 개념 & 딥러닝 최적화 이론, Tensorflow를 활용한 파이썬 딥러닝 실습
-- [인공지능 고급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424780/1.pdf)
+- [인공지능 고급과정 1.pdf](https://github.com/Leekhoo/My-profile/files/12424837/1.pdf)
 
 ### Supervised Machine Learning: Regression and Classification
 - 지도 학습 기본 개념: 지도 학습의 기본 원리와 절차에 대한 소개를 포함합니다.
@@ -29,7 +29,7 @@
 - 분류(Classification): 분류 문제를 통해 주어진 입력 데이터를 미리 정의된 클래스 또는 범주로 분류하는 방법을 학습합니다. 로지스틱 회귀와 같은 알고리즘을 사용하여 다양한 분류 작업을 다룹니다.
 - 모델 평가와 선택: 모델의 성능을 평가하고 최적의 모델을 선택하는 방법에 대해 배웁니다. 정확도, 정밀도, 재현율 등과 같은 평가 지표
 - 과적합과 모델 성능 개선: 과적합 문제를 이해하고 이를 해결하기 위한 방법들을 다룹니다. 교차 검증, 하이퍼파라미터 튜닝 등
-- [Coursera.pdf](https://github.com/Leekhoo/My-profile/files/12424781/Coursera.pdf)
+- [Coursera.pdf](https://github.com/Leekhoo/My-profile/files/12424839/Coursera.pdf)
 
 ### 프로젝트 경험
 - [화재 이미지 인식 프로그램]: [네이버에서 화재 이미지와 비화재 이미지를 수집한 뒤, 화재 이미지를 예측하는 프로젝트]
